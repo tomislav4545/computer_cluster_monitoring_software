@@ -1,0 +1,6 @@
+nest-asyncio
+ttkthemes
+matplotlib
+asyncssh
+asyncio
+colorlog
